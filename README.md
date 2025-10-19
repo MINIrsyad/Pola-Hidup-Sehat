@@ -40,17 +40,8 @@ HealthyLife/
 ---
 
 ## Cara Menjalankan Proyek
-1. Clone repository ini  
-   ```bash
-   git clone https://github.com/MINIrsyad/webphpsql.git
-   ```
-2. Masuk ke folder proyek  
-   ```bash
-   cd Pola Hidup Sehat
-   ```
-3. Buka file `Pola Hidup Sehat.html` di browser  
-   - Klik dua kali `Pola Hidup Sehat.html`, atau  
-   - Jalankan di VS Code menggunakan ekstensi **Live Server**.  
+Buka tautan tersebut dalam browser address  
+  https://minirsyad.github.io/Pola-Hidup-Sehat/ 
 
 ---
 
